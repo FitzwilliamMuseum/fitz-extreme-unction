@@ -22,8 +22,8 @@ title: "Extreme Unction"
 email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
   "Throughout 2015 Nicolas Poussin’s Extreme Unction went on tour to three public museums – the Walker Art Gallery, Liverpool, the Scottish National Gallery, Edinburgh, and the Ashmolean Museum, Oxford – all of which have works by this artist on display."
-baseurl: "/extreme-unction" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://extreme-unction.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: "/images/PD_11_2012.jpg"
