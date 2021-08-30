@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Poussin’s working methods"
+permalink: /working-methods
 ---
 
 Poussin was meticulous in his working methods. When asked how he had achieved his high ranking position amongst the artists of Italy, he replied _‘Je n’ai rien negligé’_ – ‘I have neglected nothing’.

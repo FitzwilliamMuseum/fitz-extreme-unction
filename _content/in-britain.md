@@ -1,6 +1,7 @@
 ---
 title: Poussin in Britain
 layout: default
+permalink: /in-britain/
 ---
 
 Poussin’s growing popularity in Britain throughout the 18th century can be explained in part by the increasing number of Grand Tourists who were able to view his paintings in collections in Italy and France. Numerous examples of his works were imported into the UK by agents, dealers and collectors abroad, and appeared regularly in public auctions and private sales. By the end of the century, nearly half of Poussin’s paintings were to be found in British collections, adorning the country house interiors of the wealthy elite. At some point in the late 18th century, Lord Fitzwilliam, the founder of the museum in Cambridge that bears his name, believed he had acquired a painting by Poussin, although subsequent scholarship has proved it to be a copy by an unknown artist of Poussin’s Rebecca and Eliezir of 1648, in the Louvre, Paris. Poussin’s works were also known through painted and engraved copies, which were acquired by members of the gentry and middle classes, who shared the aristocracy’s appreciation of his paintings but lacked the means to acquire them.

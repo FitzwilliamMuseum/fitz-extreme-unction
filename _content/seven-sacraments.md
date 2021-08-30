@@ -1,6 +1,7 @@
 ---
 title: "Cassiano dal Pozzo’s Seven Sacraments"
 layout: default
+permalink: /seven-sacraments/
 ---
 Poussin depicts each sacrament as an event described in the Bible, with the exception of Confirmation and Extreme Unction for which he referred instead to the liturgical events of the early Church.
 

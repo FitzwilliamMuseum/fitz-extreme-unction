@@ -1,6 +1,7 @@
 ---
 title: "Nicolas Poussin’s Extreme Unction"
 layout: default
+permalink: /the-painting/
 ---
 <div class="embed-responsive embed-responsive-1by1">
 <iframe src="https://collection.beta.fitz.ms/uv.html#?manifest=https://api.fitz.ms/data-distributor/iiif/object-197237/manifest&c=0&m=0&cv=0&config=https://collection.beta.fitz.ms/config.json&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),sv-SE:Svenska,xx-XX:English (GB) (xx-XX)&xywh=-2195,-253,10266,5206&r=0" class="embed-responsive-item" allowfullscreen frameborder="0"></iframe>

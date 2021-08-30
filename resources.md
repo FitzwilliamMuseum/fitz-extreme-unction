@@ -7,5 +7,5 @@ These notes are aimed at teachers and guides intending to give a talk on Nicolas
 
 Please see below for the following documents:
 
-[An introductory talk on the painting: 15 minutes]({{site.baseurl}}/resources/Teachers1.pdf)   
-[Teacher’s notes for a detailed talk, with points for further discussion]({{site.baseurl}}/resources/Teachers2.pdf).
+* [An introductory talk on the painting: 15 minutes]({{site.baseurl}}/resources/Teachers1.pdf)   
+* [Teacher’s notes for a detailed talk, with points for further discussion]({{site.baseurl}}/resources/Teachers2.pdf).

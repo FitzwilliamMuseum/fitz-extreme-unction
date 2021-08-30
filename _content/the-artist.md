@@ -1,6 +1,7 @@
 ---
 title: The artist
 layout: default
+permalink: /the-artist/
 ---
 The Artist
 Nicolas Poussin (1594-1665) was born in the town of Le Andelys in Normandy. In 1624 he travelled to Rome, the art capital of Europe, where he attracted the patronage of wealthy and influential collectors, many of whom held diplomatic positions in the service of the Catholic Church. Amongst his most influential patrons, were the Pope’s nephew, Cardinal Francesco Barberini (1597-1679) and the latter’s secretary, Cassiano dal Pozzo (1588-1657). Poussin made numerous studies of well-known antiquities represented in Cassiano’s renowned Museo Cartaceo or Paper Museum, which provided documentary evidence of Roman customs, costume and architecture. His early years in Rome were also spent making copies of old master paintings by leading Italian artists of the Renaissance, including Raphael and Annibale Carracci.

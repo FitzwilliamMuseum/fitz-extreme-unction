@@ -41,7 +41,7 @@ plugins:
   - jemoji
   - jekyll-mentions
 collections:
-   blog:
+   content:
       output: true
 timezone: Europe/London
 permalink: pretty

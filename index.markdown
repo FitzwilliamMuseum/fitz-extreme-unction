@@ -8,7 +8,7 @@ Extreme Unction was acquired by the Fitzwilliam Museum in 2012 through the HM Go
 
 The painting went on tour to:
 
-*  Walker Art Gallery, Liverpool Friday 6 March – Sunday 7 June 2015
+* Walker Art Gallery, Liverpool Friday 6 March – Sunday 7 June 2015
 * Scottish National Gallery, Edinburgh Friday 12 June – Sunday 13 September 2015
 * Ashmolean Museum, Oxford Friday 18 September – Sunday 13 December 2015
 
