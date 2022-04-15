@@ -1,5 +1,7 @@
 # Extreme Unction
 
+[![DOI](https://zenodo.org/badge/385943649.svg)](https://zenodo.org/badge/latestdoi/385943649)
+
 ![Extreme Unction card](/images/extreme.jpg)
 
 Throughout 2015 Nicolas Poussin’s Extreme Unction went on tour to three public museums – the Walker Art Gallery, Liverpool, the Scottish National Gallery, Edinburgh, and the Ashmolean Museum, Oxford – all of which have works by this artist on display.
