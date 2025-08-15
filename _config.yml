@@ -30,7 +30,7 @@ background: "/images/PD_11_2012.jpg"
 # Build settings
 plugins:
   - jekyll-feed
-google_analytics: 'G-2R0YLY9DRS'
+#google_analytics: 'G-2R0YLY9DRS'
 words_per_minute: 200
 # Build settings
 markdown: kramdown
